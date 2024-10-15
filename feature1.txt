@@ -1,1 +1,2 @@
 Feature 1
+Trainee 2 updated the file feature.
